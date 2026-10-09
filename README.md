@@ -21,6 +21,7 @@
 - `?room=방ID` 또는 `?space=공간ID`도 전달합니다.
 - 방문자 주소창에는 GitHub 주소가 보입니다. 기존 서버 주소 자체를 비공개로 만들거나 삭제하는 방식은 아닙니다.
 - 공간 내부의 기존 초대 링크와 파일 링크에는 기존 서버 주소가 사용됩니다.
-- GitHub 게시 시 저장소 이름과 계정명은 실제 계정 연결 후 결정해야 합니다.
+- 저장소: `okidoki0101/test-space`
+- GitHub 홈페이지 주소: `https://okidoki0101.github.io/test-space/`
 
 GitHub Pages 안내: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
